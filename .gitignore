@@ -3,7 +3,7 @@
 *$py.class
 *~
 .*.sw[pon]
-dist/
+#dist/
 *.egg-info
 *.egg
 *.egg/
